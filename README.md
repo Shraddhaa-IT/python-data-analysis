@@ -39,6 +39,12 @@ The project includes:
 - Employment levels varied substantially across ICT occupations.
 - Visualisation helped compare employment and earnings across different ICT fields.
 
+## Data Source
+
+Dataset: ANZSCO Occupation Data – February 2026
+
+The dataset contains Australian occupation information including employment levels, median weekly earnings and annual employment growth. The ICT-related occupations were selected and analysed for this project.
+
 ## Visualisations
 
 The analysis includes visualisations of:
